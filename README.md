@@ -19,7 +19,6 @@ Project is created with:
 * Javascript 1.7
 * Sweetalert 2.1.2
 * Axios 0.18.0
-* W3-css 4.1.0
 * Reactstrap 7.1.0
 * Bootstrap 4.3.1
 
