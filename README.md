@@ -23,5 +23,5 @@ Project is created with:
 * Bootstrap 4.3.1
 
 ## Launch
-https://github.com/AmaniAlamri/near-app
+https://amanialamri.github.io/near-app/
 
